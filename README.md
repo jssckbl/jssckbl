@@ -2,7 +2,7 @@
 
 ### I'm a full stack developer living in Minneapolis, Minnesota. I like to work on full-stack applications using JavaScript, React, and Node.js.
 
-- 🔭 I’m helping out with https://repaireconomywa.org while on the job search.
+- 🔭 I’m wrapping up the final week working with https://the-collab-lab.codes/ on team TCL-23! 
 
 - 🌱 I’m currently learning more about front-end development, as well as accessibility.
 
