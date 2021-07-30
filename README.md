@@ -2,17 +2,17 @@
 
 ### I'm a full stack developer living in Minneapolis, Minnesota. I like to work on full-stack applications using JavaScript, React, and Node.js.
 
-- 🔭 I just finished my 8 weeks working with https://the-collab-lab.codes/ on team TCL-23! Check out our project repository at https://github.com/the-collab-lab/tcl-23-smart-shopping-list.
+- I am about to start week 4 of my second project with https://the-collab-lab.codes/ on team TCL-30. If you would like to see the project progress, check out the repository at https://github.com/the-collab-lab/tcl-30-whats-near-me. This project uses Google Maps and Wikipedia to show the user what nifty things might be nearby!
 
-- 🌱 I’m currently learning more about front-end development, as well as accessibility.
+- 🔭 I finished my 8 weeks working with https://the-collab-lab.codes/ on team TCL-23! Check out our project repository at https://github.com/the-collab-lab/tcl-23-smart-shopping-list. It is a shopping list that people can share with others, and that helps track the user's shopping habits.
+
+- 🌱 I’m currently learning more about front-end development, as well as accessibility. Did you know WAVE and Lighthouse aren't enough? I know that now! 
 
 - 💬 Ask me about neurodivergency as a woman shifting into technology.
 
 - 👩‍🌾 Random fact: I was a farmer! 🦙 🐓 🌽 🍅 🥬 🚜 Have since downsized to being a gardener 🌻 🌿 🍄 🌱 🍉 
 
 - 👩‍💻 Check out my personal (and still under construction) site at https://www.jessicawoudsma.com. 
-
-- 👀 I’m actively seeking a mentor. If you are one, and you think we might be a good fit, please email me!
 
 - 📫 How to reach me: jessicawoudsma@gmail.com 
 
