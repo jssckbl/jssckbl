@@ -2,7 +2,7 @@
 
 ### I'm a full stack developer living in Minneapolis, Minnesota. I like to work on full-stack applications using JavaScript, React, and Node.js.
 
-- I am in week 6 of my second project with https://the-collab-lab.codes/ on team TCL-30. If you would like to see the project progress, check out the repository at https://github.com/the-collab-lab/tcl-30-whats-near-me. This project uses Google Maps and Wikipedia to show the user what nifty things might be nearby! This week, my partner and I are adding a feature to allow users to add a delay between API calls. Since this is intended to be a mobile-first project, this is being implemented to give an option to conserve battery life.  
+- I am in the final week of my second 8 week project with https://the-collab-lab.codes/ on team TCL-30! If you would like to see the project progress, check out the repository at https://github.com/the-collab-lab/tcl-30-whats-near-me. This project uses Google Maps and Wikipedia to show the user what nifty things might be nearby! My team will be implementing the design we created last week in Figma, and tending to any bugs we might find, as time allows. 
 
 - 🔭 I finished my 8 weeks working with https://the-collab-lab.codes/ on team TCL-23! Check out our project repository at https://github.com/the-collab-lab/tcl-23-smart-shopping-list. It is a shopping list that people can share with others, and that helps track the user's shopping habits.
 
